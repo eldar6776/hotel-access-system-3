@@ -1,0 +1,6 @@
+owire.c:304:13:OW_SetUsart	24	static
+owire.c:51:6:OW_Init	8	static
+owire.c:72:6:OW_Service	24	static,ignoring_inline_asm
+owire.c:234:6:HAL_UART_RxCpltCallback	16	static
+owire.c:284:6:HAL_UART_ErrorCallback	8	static
+owire.c:338:6:OW_Autobaud	8	static

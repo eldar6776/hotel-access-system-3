@@ -1,0 +1,15 @@
+rc522.c:299:13:RC522_WriteRegister	24	static
+rc522.c:281:16:RC522_ReadRegister	40	static
+rc522.c:314:13:RC522_SetBitMask	16	static
+rc522.c:332:13:RC522_AntennaOn	8	static
+rc522.c:323:13:RC522_ClearBitMask	16	static
+rc522.c:360:28:RC522_ToCard	40	static
+rc522.c:344:28:RC522_Request	32	static
+rc522.c:451:28:RC522_Anticoll	24	static
+rc522.c:481:13:RC522_CalculateCRC	24	static
+rc522.c:525:16:RC522_SelectTag	32	static
+rc522.c:580:28:RC522_Read	40	static
+rc522.c:597:13:RC522_Halt	24	static
+rc522.c:550:28:RC522_Auth	40	static
+rc522.c:201:6:RC522_Init	8	static
+rc522.c:223:6:RC522_Service	88	static
